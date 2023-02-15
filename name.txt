@@ -1,1 +1,2 @@
-Hello world is the welcome word atmost all the beginers when they entered into the programming
+You can print any message to the console
+most of the beginers print Hello world for the first time
